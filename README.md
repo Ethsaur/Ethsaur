@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ethsaur
+- 👀 I’m interested in any and all information and electronics
+- 🌱 I’m currently a college junior studying electrical engineering and teaching myself new programming languages
